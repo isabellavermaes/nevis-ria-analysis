@@ -1,0 +1,7 @@
+# Tested on Python 3.13 with these versions.
+# Google Colab already includes these packages, so this file is for running the notebook elsewhere.
+pandas==2.2.3
+numpy==2.5.4
+matplotlib==3.11.2
+openpyxl==3.1.5
+Jinja2==3.1.6
