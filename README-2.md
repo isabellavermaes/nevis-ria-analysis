@@ -6,6 +6,8 @@ Isabella Vermaes's submission for the Nevis data analysis hometask. The notebook
 
 - `nevis_ria_analysis.ipynb`: the executed notebook, with its outputs saved
 - `requirements.txt`: the package versions it was tested on
+- - `cross_check/`: my separate second build, used to check the main analysis
+- `outputs/`: the output tables, without the full firm-year table
 
 ## Run it in Google Colab
 
